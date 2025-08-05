@@ -6,11 +6,12 @@ Evaluate the impact of price framing on the subscription conversion rate for whi
 **:round_pushpin: The main purpose of this project is:** to determine which promotional message—discounted price (99K) or discount amount (save 100K)—is more effective in increasing the subscription conversion rate among whitelist customers through an A/B testing experiment.
 
 ## :two: Dataset Description:
+⭐**Link Dataset:** [link](https://drive.google.com/file/d/1ogNLPiZzqM0Iqw6whE22gu3psJOT_iyf/view?usp=drive_link)
 - **Dataset:**
     - customer_id: unique id of each users
     - group: group1: show screenA | group2: show screenB
     - is_buy: whether that user buy the subscription or not (0:no, 1:yes)
-⭐ **Link Dataset:** [link](https://drive.google.com/file/d/1ogNLPiZzqM0Iqw6whE22gu3psJOT_iyf/view?usp=drive_link)
+
   
 ## :three: Tools used:
 - Package used:
